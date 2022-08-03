@@ -1,0 +1,5 @@
+importamois flask - pip install flask
+
+criar arquivo txt com as bibliotecas instaladas no pip - pip freeze > nome do arquivo.extensão (ex. pip freeze > requirement.txt)
+
+reinstalar as depêndencias do pip a partir do requirement pip istall -r requirement.txt
